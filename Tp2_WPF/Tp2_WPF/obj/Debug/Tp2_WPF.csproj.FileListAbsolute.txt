@@ -1,0 +1,17 @@
+C:\Users\amesk\source\repos\wpf_2\Tp2_WPF\Tp2_WPF\bin\Debug\Tp2_WPF.exe.config
+C:\Users\amesk\source\repos\wpf_2\Tp2_WPF\Tp2_WPF\bin\Debug\Tp2_WPF.exe
+C:\Users\amesk\source\repos\wpf_2\Tp2_WPF\Tp2_WPF\bin\Debug\Tp2_WPF.pdb
+C:\Users\amesk\source\repos\wpf_2\Tp2_WPF\Tp2_WPF\obj\Debug\Tp2_WPF.csprojAssemblyReference.cache
+C:\Users\amesk\source\repos\wpf_2\Tp2_WPF\Tp2_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\amesk\source\repos\wpf_2\Tp2_WPF\Tp2_WPF\obj\Debug\App.g.cs
+C:\Users\amesk\source\repos\wpf_2\Tp2_WPF\Tp2_WPF\obj\Debug\Tp2_WPF_MarkupCompile.cache
+C:\Users\amesk\source\repos\wpf_2\Tp2_WPF\Tp2_WPF\obj\Debug\Tp2_WPF_MarkupCompile.lref
+C:\Users\amesk\source\repos\wpf_2\Tp2_WPF\Tp2_WPF\obj\Debug\MainWindow.baml
+C:\Users\amesk\source\repos\wpf_2\Tp2_WPF\Tp2_WPF\obj\Debug\Tp2_WPF.g.resources
+C:\Users\amesk\source\repos\wpf_2\Tp2_WPF\Tp2_WPF\obj\Debug\Tp2_WPF.Properties.Resources.resources
+C:\Users\amesk\source\repos\wpf_2\Tp2_WPF\Tp2_WPF\obj\Debug\Tp2_WPF.csproj.GenerateResource.cache
+C:\Users\amesk\source\repos\wpf_2\Tp2_WPF\Tp2_WPF\obj\Debug\Tp2_WPF.csproj.CoreCompileInputs.cache
+C:\Users\amesk\source\repos\wpf_2\Tp2_WPF\Tp2_WPF\obj\Debug\Tp2_WPF.exe
+C:\Users\amesk\source\repos\wpf_2\Tp2_WPF\Tp2_WPF\obj\Debug\Tp2_WPF.pdb
+C:\Users\amesk\source\repos\wpf_2\Tp2_WPF\Tp2_WPF\obj\Debug\Exercice_2.g.cs
+C:\Users\amesk\source\repos\wpf_2\Tp2_WPF\Tp2_WPF\obj\Debug\Exercice_2.baml
